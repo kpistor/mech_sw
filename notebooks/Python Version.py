@@ -1,7 +1,7 @@
-# Databricks notebook source exported at Fri, 24 Jul 2015 15:18:24 UTC
+# Databricks notebook source exported at Fri, 24 Jul 2015 15:22:56 UTC
 import pandas
 import scipy
-import numpy dfdf
+import numpy 
 
 # COMMAND ----------
 
